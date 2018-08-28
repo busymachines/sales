@@ -1,0 +1,158 @@
+[{
+        "technologyStack": "BE - Java",
+        "technologies": [
+            "Java",
+            "Hibernate",
+            "Spring",
+            "JSF",
+            "Akka",
+            "Play"
+        ]
+    },
+    {
+        "technologyStack": "BE - Scala",
+        "technologies": [
+            "Scala",
+            "Play",
+            "Akka",
+            "Spray"
+        ]
+    },
+    {
+        "technologyStack": "BE - PHP",
+        "technologies": [
+            "PHP",
+            "Laravel",
+            "Symphony"
+        ]
+    },
+    {
+        "technologyStack": "BE - NodeJS",
+        "technologies": [
+            "NodeJS",
+            "NPM",
+            "Atom Electron",
+            "ES6",
+            "Webpack"
+        ]
+    },
+    {
+        "technologyStack": "FE - Angular",
+        "technologies": [
+            "AngularJS",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Typescript",
+            "Gulp",
+            "ES6",
+            "Webpack",
+            "jQuery",
+            "Bootstrap",
+            "Ajax",
+            "Foundation",
+            "Webpack",
+            "HTML5",
+            "CSS3"
+        ]
+    },
+    {
+        "technologyStack": "FE - React",
+        "technologies": [
+            "React",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Typescript",
+            "Gulp",
+            "ES6",
+            "Webpack",
+            "jQuery",
+            "Bootstrap",
+            "Ajax",
+            "Foundation",
+            "Webpack",
+            "HTML5",
+            "CSS3"
+        ]
+    },
+    {
+        "technologyStack": "MOB - CrossPlatform",
+        "technologies": [
+            "ReactNative",
+            "Cordova",
+            "PhoneGap",
+            "Flux",
+            "Redux"
+        ]
+    },
+    {
+        "technologyStack": "MOB - IOS native",
+        "technologies": [
+            "Switft",
+            "Objective C"
+        ]
+    },
+    {
+        "technologyStack": "MOB - Android native",
+        "technologies": [
+            "Java",
+            "Android",
+            "Kotlin"
+        ]
+    },
+    {
+        "technologyStack": "DB - SQL",
+        "technologies": [
+            "Mysql",
+            "Maria",
+            "Postgres"
+        ]
+    },
+    {
+        "technologyStack": "DB - noSQL",
+        "technologies": [
+            "Elasticsearch",
+            "MongoDB",
+            "Cassandra",
+            "Redis"
+        ]
+    },
+    {
+        "technologyStack": "3D - Web",
+        "technologies": [
+            "WebGL",
+            "ThreeJS",
+            "Unity"
+        ]
+    },
+    {
+        "technologyStack": "QA - Automated",
+        "technologies": [
+            "Selenium",
+            "Jasmine",
+            "Protractor",
+            "Gatling"
+        ]
+    },
+    {
+        "technologyStack": "Serverless",
+        "technologies": [
+            "Firebase",
+            "Kumulos",
+            "Parse"
+        ]
+    },
+    {
+        "technologyStack": "Techops / devops",
+        "technologies": [
+            "Docker", "Kubernetes", "Mesos", "Go", "AWS", "Chef", "Marathon", "Rackspace", "Ansible", "Kibana", "Grafana", "Graphite", "Google Engine", "Istio", "Helm", "SonarQube", "Jenkins", "RabbitMQ", "ZeroMQ", "Kafka"
+        ]
+    },
+    {
+        "technologyStack": "Generic technologies",
+        "technologies": [
+            "XML", "JSON", "Git", "Github", "Bitbucket"
+        ]
+    }
+]
