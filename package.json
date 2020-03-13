@@ -1,5 +1,23 @@
 {
+  "name": "sales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busymachines/sales.git"
+  },
+  "author": "Darius Costolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busymachines/sales/issues"
+  },
+  "homepage": "https://github.com/busymachines/sales#readme",
   "devDependencies": {
-    "node-sass": "^4.9.3"
+    "parcel": "^1.12.4"
   }
 }
